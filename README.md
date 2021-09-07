@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<h3 align="center"> About me 🎓</h3>
+<h3 align="center"> About me 🧉</h3>
 I am a Full Stack Developer from Argentina, currently working in a grupal proyect about NFTs
 
 <h3 align="center"> What I know 💻</h3>
@@ -14,7 +14,6 @@ I am a Full Stack Developer from Argentina, currently working in a grupal proyec
 
 <hr/>
 
-[![Sofia's github stats](https://github-readme-stats.vercel.app/api?username=hayat-tamboli&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayat-tamboli&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
