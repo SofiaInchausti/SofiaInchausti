@@ -21,6 +21,9 @@ I am a Full Stack Developer from Argentina, currently working in a grupal proyec
   <h4> Dog App</h4>
   <p>https://github.com/SofiaInchausti/Dogs-Appi/tree/master/PI-Dogs</p>
    <img width=400px src='https://github.com/SofiaInchausti/Dogs-Appi/blob/master/PI-Dogs/screenshots/landing.jpg?raw=true'/>
+  <h4> Student List (Vue) </h4>
+  <img width=400px src='https://github.com/SofiaInchausti/studentList-Vue/blob/master/screenshot/form.png'/>
+  <p>https://github.com/SofiaInchausti/studentList-Vue</p>
 
 
 
