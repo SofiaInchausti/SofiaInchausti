@@ -7,7 +7,7 @@
 <div align="center">
 
 <h3 align="center"> About me 🧉</h3>
-I am a Full Stack Developer from Argentina, currently working in a grupal proyect about NFTs
+I am a Full Stack Developer from Argentina, currently working in Nicasource
 
 <h3 align="center"> What I know 💻</h3>
 <p> HTML, CSS and Javascript | Some Python | Vue | Bootstrap | React with Redux | NodeJS | Express | PosgresSQL | MongoDB</p>
