@@ -1,6 +1,6 @@
 <h1 align="center" > Hi there, I am Sofia Inchausti 👋</h1>
 
-<img src="https://cdn.pixabay.com/photo/2016/11/19/15/32/laptop-1839876_960_720.jpg"/>
+<img src="https://img.blogs.es/anexom/wp-content/uploads/2020/03/mac-escritorio-remoto.jpg"/>
 
 <hr/>
 
